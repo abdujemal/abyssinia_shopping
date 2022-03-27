@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "152915484720",
+    "firebase_url": "https://abissinya-488e4.firebaseio.com",
+    "project_id": "abissinya-488e4",
+    "storage_bucket": "abissinya-488e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:d8abec0243c04510a90df5",
+        "android_client_info": {
+          "package_name": "com.abdu.commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:92bea2778027b3f0a90df5",
+        "android_client_info": {
+          "package_name": "com.abissinya.abissinyashoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-2j6nq5m0j0vk5gd1o486asv7uub4gh6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.abissinyashoping",
+            "certificate_hash": "7ef74930196b64983753b1dff0836298bb30c8a1"
+          }
+        },
+        {
+          "client_id": "152915484720-6dtf9es14gvts2i4bfc4pg3dse0lfs11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.abissinyashoping",
+            "certificate_hash": "d49836a048025984deb3f66b2472d308564ab2d9"
+          }
+        },
+        {
+          "client_id": "152915484720-hiotjqonmm2mvg2fvc5sovg7pfah349c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.abissinyashoping",
+            "certificate_hash": "b119697c493f835085d6ba8903c5286a8f24793e"
+          }
+        },
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:a50478fb72f1b24aa90df5",
+        "android_client_info": {
+          "package_name": "com.abissinya.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-k5q8o0hdrdun4nlkbe3jfnsdpnbj90tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.admin",
+            "certificate_hash": "7ef74930196b64983753b1dff0836298bb30c8a1"
+          }
+        },
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:c0dd6d2c7473ffbfa90df5",
+        "android_client_info": {
+          "package_name": "com.abissinya.managementcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-1bcqikns04ae7b4v85jsr4et2q0vldpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.managementcenter",
+            "certificate_hash": "7ef74930196b64983753b1dff0836298bb30c8a1"
+          }
+        },
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:f220441a8134ec6ea90df5",
+        "android_client_info": {
+          "package_name": "com.abissinya.paymentchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-g62ihdfqerlmihtvlcv9vdvjr4b62u6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abissinya.paymentchecker",
+            "certificate_hash": "b119697c493f835085d6ba8903c5286a8f24793e"
+          }
+        },
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152915484720:android:bfd11a4097931ea5a90df5",
+        "android_client_info": {
+          "package_name": "com.abyssinia.abyssinia_shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiAXTy96_KYI5vxsO3g1euoUkC9yRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152915484720-v2l4rt31ui8koht9btscphfu9vfllct1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
